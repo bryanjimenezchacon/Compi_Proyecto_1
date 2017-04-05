@@ -1,0 +1,23 @@
+#include "externo0.txt" 
+ 
+#define Value 23
+#define one 1
+
+/*HIIIIIII*/
+
+int main () { 
+	int factorial, result = one;
+	x = 2-3; 
+	hola = Value;
+	if (x==2){
+		printf("Yo soy Luis");
+	} else {
+		printf("No soy Luis");
+	}
+	int ariel = 3;
+	int bryan = 7 ;
+	while (x != bryan){
+		printf("NO SOY BRYAN")	
+	}
+}
+
